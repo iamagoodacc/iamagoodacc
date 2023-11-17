@@ -5,5 +5,4 @@ ___
 - [x] side projects <br>
 - [x] programming gear <br>
 - [x] billion to-dos <br>
-- [x] alex's friend
 - [ ] sleep <br>
